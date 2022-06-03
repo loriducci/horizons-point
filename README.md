@@ -2,7 +2,7 @@
 Changelog for the VRChat Map Horizon's Point
 
 
-  2/27/22 
+#  2/27/22 
   
   -Initial upload 
   
