@@ -1,5 +1,12 @@
-# horizons-point
-Changelog for the VRChat Map Horizon's Point
+# Horizon's Point
+
+Welcome! You've stumbled upon the public repository for the VRChat Map Horizon's Point. 
+
+https://vrchat.com/home/world/wrld_027bff1d-b786-4e76-9cd1-387b97fd39a1
+
+For now this page primarily serves as a changelog, but may eventually contain scripts and packages used in the map!
+
+If you have any feedback feel free to email me - Tony@Loriducci.com
 
 
 #  2/27/22 
