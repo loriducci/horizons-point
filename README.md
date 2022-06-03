@@ -7,21 +7,21 @@ Changelog for the VRChat Map Horizon's Point
   -Initial upload 
   
   
- 3/02/22 
+# 3/02/22 
  
   -Removed kitchen counters 
   
   -Added stage area, stage lights, speakers and bean bags 
   
   
- 3/06/22 
+# 3/06/22 
  
   -Added textures and materials 
   
   -Added Patio and Stage Mirrors 
   
   
- 3/11/22 
+# 3/11/22 
  
   -Changed glass shader to Silent's Fake Glass 
   
@@ -36,7 +36,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added bird photographs 
   
   
- 3/16/22 
+# 3/16/22 
  
   -Adjusted lighting 
   
@@ -47,7 +47,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added high hats with point lights to the ceiling 
   
   
- 3/19/22 
+# 3/19/22 
  
   -Added proximity colliders to disable mirrors 
   
@@ -60,7 +60,7 @@ Changelog for the VRChat Map Horizon's Point
   -Adjusted lighting 
   
   
- 3/24/22 
+# 3/24/22 
  
   -Expanded Patio 
   
@@ -75,7 +75,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added custom mirror buttons 
   
   
- 3/30/22 
+# 3/30/22 
  
   -Added lamps to the bedroom 
   
@@ -84,7 +84,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added Cafe area, tables, and hanging vines 
   
   
- 4/07/22 
+# 4/07/22 
  
   -Fixed Horizons Logo normals and added emissions 
   
@@ -101,7 +101,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added more reflection probes 
   
   
- 4/09/22 
+# 4/09/22 
  
   -Optimized Jacuzzi mesh 
   
@@ -116,7 +116,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added UKeyboard 
   
   
- 4/15/22 
+# 4/15/22 
  
   -Started using bakery for building lightmaps 
   
@@ -130,7 +130,7 @@ Changelog for the VRChat Map Horizon's Point
   -Expanded Light probes and added second volume 
   
   
- 4/19/22 
+# 4/19/22 
  
   -Optimized mountain mesh 
   
@@ -145,7 +145,7 @@ Changelog for the VRChat Map Horizon's Point
   -UKeyboard now follows you around and syncs correctly 
   
   
- 4/26/22 
+# 4/26/22 
  
   -Added Games area, pool table, rugs and fireplace 
   
@@ -160,7 +160,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added more reflection probes 
   
   
- 4/30/22 
+# 4/30/22 
  
   -Added candle flame particles to the jacuzzi area 
   
@@ -171,13 +171,13 @@ Changelog for the VRChat Map Horizon's Point
   -Adjusted world lighting, added secondary directional lights 
   
   
- 5/02/22 
+# 5/02/22 
   -Mesh optimisation, exported smaller FBXs and removed duplicates 
   
   -Added wind chimes 
   
   
- 5/06/22 
+# 5/06/22 
  
   -Added detail and structural beams to outside walls 
   
@@ -190,7 +190,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added pen and colliders toggle 
   
   
- 5/12/22 
+# 5/12/22 
  
   -Material optimisation 
   
@@ -199,14 +199,14 @@ Changelog for the VRChat Map Horizon's Point
   -Added interactive water rig
   
   
- 5/19/22 
+# 5/19/22 
  
   -Added fireplace particles, sound, and toggle 
   
   -Added second floor roofed patio 
   
   
- 5/21/22 
+# 5/21/22 
  
   -Added changelog to the keyboard /changelog, /log 
   
@@ -223,7 +223,7 @@ Changelog for the VRChat Map Horizon's Point
   -Fixed mesh seam near the ceiling above the front door 
   
   
- 6/03/22 
+# 6/03/22 
  
   -Fixed rooftop mirror button disappearing 
   
