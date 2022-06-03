@@ -4,9 +4,11 @@ Changelog for the VRChat Map Horizon's Point
 
   2/27/22 
   -Initial upload 
+  
  3/02/22 
   -Removed kitchen counters 
   -Added stage area, stage lights, speakers and bean bags 
+  
  3/06/22 
   -Added textures and materials 
   -Added Patio and Stage Mirrors 
