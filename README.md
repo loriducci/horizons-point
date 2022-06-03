@@ -125,6 +125,7 @@ Changelog for the VRChat Map Horizon's Point
   -Added Mountains 
   
   -Added steam to jacuzzi 
+  
   -Added desk, chairs and computer to theatre area 
   
   -Expanded Light probes and added second volume 
