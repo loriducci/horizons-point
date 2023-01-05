@@ -243,3 +243,17 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   
   -Updated changelog history, created github page
 
+
+# 1/03/23 
+ 
+  -Fixed Quest Mirror Flicker On Jacuzzi Wall
+  
+  -Adjusted Patio Proximity Collider
+  
+  -Expanded Patio Chair Mirror
+  
+  -Relocated TV Mirror and changed HQ to Cutout
+  
+  -Re-arranged Games Room, Added Mountain Canvas
+  
+  -Updated ProTV to 2.3.12
