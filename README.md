@@ -261,3 +261,19 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
 # 1/11/23 
  
   -Added Spawn Room
+  
+  
+# 1/14/23 
+ 
+  -Updated Spawn Room, new layout, note on optimisation
+  
+  -Added Hats to the rack
+  
+  -Re-arranged bedroom
+  
+  -Added more plants and decor around the map, re-arranged photos
+  
+  -Adjusted fireplace/clock volume
+  
+  -Added more songs to the playlist
+  
