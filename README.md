@@ -279,3 +279,5 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   
   -Added collider to the firewood
   
+  -Adjusted LQ Mirror Quality from 1x to 2x AA
+  
