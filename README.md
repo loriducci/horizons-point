@@ -282,7 +282,7 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Adjusted LQ Mirror Quality from 1x to 2x AA
   
   
-  # 1/17/23 
+  # 1/16/23 
  
   -Re-arranged Games Room
   
@@ -292,3 +292,9 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   
   -Added prop mic pickups to the theatre area - Shure SM58 by GRIP420
   
+  
+    # 1/16/23 
+ 
+  -Adjusted Dart Placement
+  
+  -Added Games Room Fireplace Mirror
