@@ -293,7 +293,7 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Added prop mic pickups to the theatre area - Shure SM58 by GRIP420
   
   
-    # 1/16/23 
+   # 1/17/23 
  
   -Adjusted Dart Placement
   
