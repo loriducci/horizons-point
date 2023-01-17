@@ -281,3 +281,14 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   
   -Adjusted LQ Mirror Quality from 1x to 2x AA
   
+  
+  # 1/17/23 
+ 
+  -Re-arranged Games Room
+  
+  -Added games neon sign
+  
+  -Added VRCDarts v4.0.2
+  
+  -Added prop mic pickups to the theatre area - Shure SM58 by GRIP420
+  
