@@ -180,6 +180,7 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   
   
 # 5/02/22 
+
   -Mesh optimisation, exported smaller FBXs and removed duplicates 
   
   -Added wind chimes 
@@ -257,6 +258,7 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Re-arranged Games Room, Added Mountain Canvas
   
   -Updated ProTV to 2.3.12
+  
 
 # 1/11/23 
  
@@ -298,3 +300,14 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Adjusted Dart Placement
   
   -Added Games Room Fireplace Mirror
+  
+  
+  # 1/23/23 
+ 
+  -Added Post-Processing Bloom, Color Grading and Toggle
+  
+  -Adjusted Lighting to compensate for new Post Effects
+  
+  -Added World Particles and Toggle
+  
+  -Increased Skybox resolution from 1024 to 2048 on PC
