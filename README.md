@@ -324,3 +324,12 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Added clock to the Living Room
   
   -Added snow particles
+  
+  
+   # 2/17/23 
+ 
+  -Updated snow to use mesh particles
+  
+  -Set Fireplaces to disabled by default
+  
+  -Disabled Fog for now(incorrect layering when using Quest Avatar Shaders on PC)
