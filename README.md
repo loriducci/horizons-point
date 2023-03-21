@@ -333,3 +333,16 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Set Fireplaces to disabled by default
   
   -Disabled Fog for now(incorrect layering when using Quest Avatar Shaders on PC)
+
+
+  # 3/21/23 
+ 
+  -Optimization Pass!
+  
+  -Enabled Baked Occlusion, defined occluders on static objects
+  
+  -Enabled MonoSH for Bakery Directional lighting on all Filamented Materials
+  
+  -Remshed Hanging Ivy for better batching
+  
+  -Streaming MipMaps and crunch compression on all textures
