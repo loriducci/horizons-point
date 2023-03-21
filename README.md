@@ -343,6 +343,6 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   
   -Enabled MonoSH for Bakery Directional lighting on all Filamented Materials
   
-  -Remshed Hanging Ivy for better batching
+  -Remeshed Hanging Ivy for better batching
   
   -Streaming MipMaps and crunch compression on all textures
