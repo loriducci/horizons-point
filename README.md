@@ -346,3 +346,16 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Remeshed Hanging Ivy for better batching
   
   -Streaming MipMaps and crunch compression on all textures
+  
+  
+    # 3/29/23 
+ 
+  -Removed temporary spawn room and updated spawn location
+  
+  -Removed Fog
+  
+  -Added toggles to the clocks
+  
+  -Reset Fireplaces to default to On
+  
+  -Increased Player capacity to 32
