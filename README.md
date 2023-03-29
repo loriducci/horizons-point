@@ -359,3 +359,7 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Reset Fireplaces to default to On
   
   -Increased Player capacity to 32
+  
+  -Bedroom Curtain Mesh optimization
+  
+  -Removed unnecessary normal maps
