@@ -363,3 +363,14 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Bedroom Curtain Mesh optimization
   
   -Removed unnecessary normal maps
+
+
+   # 5/23/23 
+ 
+  -Removed Vines in the cafe on Quest Side
+  
+  -Updated QVPens to 3.2.5.1
+  
+  -Updated SDK to 3.2.0
+  
+  -Enabled ASTC Compression on all textures
