@@ -370,7 +370,29 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Removed Vines in the cafe on Quest Side
   
   -Updated QVPens to 3.2.5.1
-  
-  -Updated SDK to 3.2.0
-  
+
   -Enabled ASTC Compression on all textures
+
+  # 3/24/24 
+ 
+  -Updated Unity to 2022.3.6f1
+  
+  -Updated QVPens to 3.2.12
+  
+  -Fixed Material issues on VRCBCE 1.5.1
+
+  -Updated ProTV to 3.0.0-beta.14.4
+
+  -Several Mesh optimisations, reduced world triangle count by ~170k
+
+  -Remeshed Theatre couch
+
+  -Removed bedroom curtains
+
+  -Updated bakery and baked lightmaps
+
+  -Further lightmap optimisations
+
+  -Re-introduced vines to the cafe on Quest version
+
+  -Consolidated Quest Material settings
