@@ -396,3 +396,5 @@ If you have any feedback feel free to email me - Tony@Loriducci.com
   -Re-introduced vines to the cafe on Quest version
 
   -Consolidated Quest Material settings
+
+  -Added exposure transitions for the indoor/outdoor brightness
